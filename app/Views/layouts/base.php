@@ -8,13 +8,13 @@
         <link rel="stylesheet" href="<?= base_url(); ?>/public/assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="<?= base_url(); ?>/public/assets/css/styles.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <title>GoPHP Training and Development</title>
+        <title>Lead Fetch</title>
     </head>
     <body>
 
         <nav class="navbar navbar-expand-lg navbar-dark mynav">
             <div class="container">
-                <a class="navbar-brand" href="<?= base_url()?>">GoPHP</a>
+                <a class="navbar-brand" href="<?= base_url()?>">Lead Fetch</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
